@@ -26,11 +26,12 @@ export default function BadgeScannerApp() {
 
   // Liste des agents
   const agents = [
-    'Omar Fekhar',
-    'Soufian Seddik',
-    'Madjid ELAIB',
-    'Marouan Laib',
-    
+    'Yacine Fekhar',
+    'Lamine Fekhar',
+    'Mohammed Oudjana',
+    'LAMINE Djehlane',
+    'Yacine Khelili banouh',
+  
 
 
   ];
