@@ -26,11 +26,11 @@ export default function BadgeScannerApp() {
 
   // Liste des agents
   const agents = [
-    'Yacine Fekhar',
     'Omar Fekhar',
+    'Soufian Seddik',
     'Madjid ELAIB',
-    'Toufik Messen',
-    'Soufian ',
+    'Marouan Laib',
+    
 
 
   ];
@@ -64,7 +64,7 @@ export default function BadgeScannerApp() {
   ];
 
   // Marques d'intérêt
-  const brands = ['BFINDER'];
+  const brands = ['VICTO''MTI'];
   const [hasCamera, setHasCamera] = useState(false);
   const scannerRef = useRef(null);
   const html5QrCodeRef = useRef(null);
