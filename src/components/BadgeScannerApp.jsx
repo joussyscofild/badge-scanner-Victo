@@ -64,7 +64,7 @@ export default function BadgeScannerApp() {
   ];
 
   // Marques d'intérêt
-  const brands = ['VICTO''MTI'];
+  const brands = ['VICTO'];
   const [hasCamera, setHasCamera] = useState(false);
   const scannerRef = useRef(null);
   const html5QrCodeRef = useRef(null);
